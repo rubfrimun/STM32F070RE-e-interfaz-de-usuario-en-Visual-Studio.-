@@ -51,7 +51,7 @@ El firmware se ha diseñado utilizando múltiples hilos de ejecución (Tasks) pa
 
 La interfaz desarrollada en Visual Studio permite al usuario controlar el sistema completo de forma intuitiva:
 
-![Interfaz HMI](Assets/hmi.png)
+![Interfaz HMI](hmi.png)
 
 ### Funcionalidades de la HMI:
 1.  **Monitorización de Sensores:** Visualización en tiempo real de temperatura (ºC) y distancia (cm).
